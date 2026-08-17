@@ -31,7 +31,6 @@ main {
   width: 100%;
   max-width: 360px;
   height: auto;
-  image-rendering: pixelated;
 }
 
 .links {

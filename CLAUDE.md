@@ -8,7 +8,7 @@ A single static page for the band dRUId ZIRCONIA — no build step, no framework
 
 - `index.html` — page structure and content
 - `style.css` — all styling
-- `images/lcd-druid.png` — the band's logo (LCD/dot-matrix style wordmark), displayed centered as the main visual
+- `images/lcd-druid.svg` — the band's logo (LCD/dot-matrix style wordmark), displayed centered as the main visual. Converted from the source PDF (`pdf2svg` + `svgo`), then hand-cropped to a tight viewBox around the artwork.
 - `CNAME` — GitHub Pages custom domain file, must contain exactly `druidzirconia.com`
 
 ## Design constraint
